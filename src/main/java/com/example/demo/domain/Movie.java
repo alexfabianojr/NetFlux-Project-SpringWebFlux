@@ -4,7 +4,7 @@ import lombok.*;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
-@Builder
+//@Builder
 @Document
 @NoArgsConstructor
 @RequiredArgsConstructor
